@@ -19,8 +19,12 @@ my dream
 best way to catch me is in twitter
 @pazadam
 Here is `some code` in the middle of a sentence.
+* adam
+* paz
 
-```
+
+``jjj
+
 This is
 a block
 of code
