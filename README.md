@@ -12,9 +12,9 @@ The forms of things *unknown*, the poet’s pen,
 
 my dream 
 
-1. This is
-2. an ordered
-3. list
+1. get the 10 million
+2. kides
+3. workes
 # contact
 best way to catch me is in twitter
 @pazadam
